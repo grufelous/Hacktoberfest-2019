@@ -2,7 +2,7 @@
 Get started with the open-source world and win swag for your contributions from DigitalOcean and DEV.
 
 ## Introduction
-This web app is a crowd-sourced comprehensive list and implementation of common coding problems as well as data structures & algorithms. The app considers the files in the `problems` and `DSA` folders to generate the content for the website. 
+This web app is a crowd-sourced comprehensive list and implementation of common coding problems as well as data structures & algorithms. The app considers the files in the `problems` and `DSA` folders to generate the content for the website. The webapp is under construction at the moment.
 
 ## About Hacktoberfest
 Hacktoberfest is a month-long event where you, as a beginner to the open-source world, contribute to projects. Open-source is a great place to learn how to build software, see veteran developers in action, and see your own code in action on a global platform. Hacktoberfest seeks to help beginners dive into the world of open-source by making 4 simple pull requests (for 2019) and receiving a T-shirt as well as stickers on their successful completion.

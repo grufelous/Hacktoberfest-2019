@@ -1,4 +1,4 @@
-<h1>Range Minimum Query 1</h1>
+<h1>Range Minimum Query </h1>
 <p>You are given a list of N numbers and Q queries. <br>Each query is specified by two numbers i and j;<br> the answer to each query is the minimum number between the range [i, j] (inclusive).<br>
 
 

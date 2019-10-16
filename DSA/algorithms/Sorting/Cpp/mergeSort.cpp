@@ -1,4 +1,4 @@
-#includebitsstdc++.h
+#include <bits/stdc++.h>
 using namespace std;
 int Merge(int A[],int p, int q,int r)     
 {

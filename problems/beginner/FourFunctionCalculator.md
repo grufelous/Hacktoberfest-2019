@@ -2,9 +2,11 @@
 Implement a calculator with addition (+), subtraction (-), multiplication (*), and division (/). 
 
 ## Example
-**Input:** 52\
-18\
-+\
+**Input:**
+  52
++ 18
+------
+
 **Output:** 70
 
 ## Constraints
